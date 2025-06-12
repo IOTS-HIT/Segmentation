@@ -1,0 +1,575 @@
+this.minUtility: 12000.0
+this.minUtility: 11000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 11000.0
+	Sequential rules count: 26992
+	Total time : 619.86 s
+	Max memory (mb) : 893.7529373168945
+	Number of utility table: 84800843
+=============================================================================
+this.minUtility: 12000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 12000.0
+	Sequential rules count: 18137
+	Total time : 528.609 s
+	Max memory (mb) : 870.7250366210938
+	Number of utility table: 65905458
+=============================================================================
+this.minUtility: 13000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 13000.0
+	Sequential rules count: 12232
+	Total time : 469.157 s
+	Max memory (mb) : 859.0338134765625
+	Number of utility table: 51473140
+=============================================================================
+this.minUtility: 14000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 14000.0
+	Sequential rules count: 8285
+	Total time : 394.189 s
+	Max memory (mb) : 825.4148559570312
+	Number of utility table: 40913616
+=============================================================================
+this.minUtility: 15000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 15000.0
+	Sequential rules count: 5676
+	Total time : 397.451 s
+	Max memory (mb) : 804.8918151855469
+	Number of utility table: 33364255
+=============================================================================
+this.minUtility: 16000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 16000.0
+	Sequential rules count: 3830
+	Total time : 356.235 s
+	Max memory (mb) : 795.8317260742188
+	Number of utility table: 27470252
+=============================================================================
+this.minUtility: 17000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 17000.0
+	Sequential rules count: 2612
+	Total time : 326.953 s
+	Max memory (mb) : 771.7694091796875
+	Number of utility table: 22797081
+=============================================================================
+this.minUtility: 11000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 11000.0
+	Sequential rules count: 26992
+	Total time : 207.222 s
+	Max memory (mb) : 852.0542297363281
+	Number of utility table: 72468063
+=============================================================================
+this.minUtility: 12000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 12000.0
+	Sequential rules count: 18137
+	Total time : 118.698 s
+	Max memory (mb) : 716.2521820068359
+	Number of utility table: 56317921
+=============================================================================
+this.minUtility: 13000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 13000.0
+	Sequential rules count: 12232
+	Total time : 109.987 s
+	Max memory (mb) : 694.8253707885742
+	Number of utility table: 44080487
+=============================================================================
+this.minUtility: 14000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 14000.0
+	Sequential rules count: 8285
+	Total time : 107.209 s
+	Max memory (mb) : 686.7756423950195
+	Number of utility table: 35093588
+=============================================================================
+this.minUtility: 15000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 15000.0
+	Sequential rules count: 5676
+	Total time : 70.161 s
+	Max memory (mb) : 683.5486145019531
+	Number of utility table: 28598959
+=============================================================================
+this.minUtility: 16000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 16000.0
+	Sequential rules count: 3830
+	Total time : 69.926 s
+	Max memory (mb) : 683.4377593994141
+	Number of utility table: 23528650
+=============================================================================
+this.minUtility: 17000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 17000.0
+	Sequential rules count: 2612
+	Total time : 63.321 s
+	Max memory (mb) : 674.026008605957
+	Number of utility table: 19453088
+=============================================================================
+this.minUtility: 11000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 11000.0
+	Sequential rules count: 26992
+	Total time : 137.561 s
+	Max memory (mb) : 734.8754730224609
+	Number of utility table: 84800843
+=============================================================================
+this.minUtility: 12000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 12000.0
+	Sequential rules count: 18137
+	Total time : 117.343 s
+	Max memory (mb) : 724.68212890625
+	Number of utility table: 65905458
+=============================================================================
+this.minUtility: 13000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 13000.0
+	Sequential rules count: 12232
+	Total time : 100.606 s
+	Max memory (mb) : 707.7501831054688
+	Number of utility table: 51473140
+=============================================================================
+this.minUtility: 14000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 14000.0
+	Sequential rules count: 8285
+	Total time : 98.981 s
+	Max memory (mb) : 694.0218353271484
+	Number of utility table: 40913616
+=============================================================================
+this.minUtility: 15000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 15000.0
+	Sequential rules count: 5676
+	Total time : 81.712 s
+	Max memory (mb) : 686.8977127075195
+	Number of utility table: 33364255
+=============================================================================
+this.minUtility: 16000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 16000.0
+	Sequential rules count: 3830
+	Total time : 66.635 s
+	Max memory (mb) : 684.1817398071289
+	Number of utility table: 27470252
+=============================================================================
+this.minUtility: 17000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 17000.0
+	Sequential rules count: 2612
+	Total time : 59.782 s
+	Max memory (mb) : 682.1636199951172
+	Number of utility table: 22797081
+=============================================================================
+this.minUtility: 17000.0
+./2.sh: 第 48 行： 1624628 已杀死               java linuxMain $input $output_path $minutil 0
+this.minUtility: 17500.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 17500.0
+	Sequential rules count: 17
+	Total time : 1.095 s
+	Max memory (mb) : 596.3663940429688
+	Number of utility table: 13613
+=============================================================================
+this.minUtility: 18000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18000.0
+	Sequential rules count: 14
+	Total time : 0.654 s
+	Max memory (mb) : 253.45590209960938
+	Number of utility table: 2327
+=============================================================================
+this.minUtility: 18500.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18500.0
+	Sequential rules count: 14
+	Total time : 0.587 s
+	Max memory (mb) : 253.83112335205078
+	Number of utility table: 2001
+=============================================================================
+this.minUtility: 19000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 19000.0
+	Sequential rules count: 14
+	Total time : 0.577 s
+	Max memory (mb) : 253.52278900146484
+	Number of utility table: 1734
+=============================================================================
+this.minUtility: 19500.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 19500.0
+	Sequential rules count: 14
+	Total time : 0.54 s
+	Max memory (mb) : 249.12822723388672
+	Number of utility table: 1414
+=============================================================================
+this.minUtility: 20000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 20000.0
+	Sequential rules count: 14
+	Total time : 0.545 s
+	Max memory (mb) : 241.38687896728516
+	Number of utility table: 1275
+=============================================================================
+./2.sh: 行 56: 未预期的记号 "done" 附近有语法错误
+./2.sh: 行 56: ` done'
+this.minUtility: 18000.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18000.0
+	Sequential rules count: 14
+	Total time : 0.683 s
+	Max memory (mb) : 285.1309356689453
+	Number of utility table: 2327
+=============================================================================
+this.minUtility: 18500.0
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18500.0
+	Sequential rules count: 14
+	Total time : 0.693 s
+	Max memory (mb) : 300.91419219970703
+	Number of utility table: 2001
+=============================================================================
+this.minUtility: 18000.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18000.0
+	Sequential rules count: 14
+	Total time : 0.531 s
+	Max memory (mb) : 189.05944061279297
+	Number of utility table: 1342
+=============================================================================
+this.minUtility: 18500.0
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18500.0
+	Sequential rules count: 14
+	Total time : 0.447 s
+	Max memory (mb) : 156.6139373779297
+	Number of utility table: 1139
+=============================================================================
+this.minUtility: 18000.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18000.0
+	Sequential rules count: 14
+	Total time : 0.577 s
+	Max memory (mb) : 253.2271728515625
+	Number of utility table: 2327
+=============================================================================
+this.minUtility: 18500.0
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 18500.0
+	Sequential rules count: 14
+	Total time : 0.505 s
+	Max memory (mb) : 205.2218475341797
+	Number of utility table: 2001
+=============================================================================
+this.minUtility: 1645.7250000000001
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 1645.7250000000001
+	Sequential rules count: 56502
+	Total time : 185.165 s
+	Max memory (mb) : 989.5505065917969
+	Number of utility table: 86243036
+=============================================================================
+this.minUtility: 3269.8740000000003
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 3269.8740000000003
+	Sequential rules count: 84
+	Total time : 359.023 s
+	Max memory (mb) : 1305.3287963867188
+	Number of utility table: 113640856
+=============================================================================
+this.minUtility: 6506.276
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 6506.276
+	Sequential rules count: 95
+	Total time : 693.355 s
+	Max memory (mb) : 2428.6954956054688
+	Number of utility table: 190656446
+=============================================================================
+this.minUtility: 13225.41
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 13225.41
+	Sequential rules count: 22
+	Total time : 964.762 s
+	Max memory (mb) : 3491.3296661376953
+	Number of utility table: 164077871
+=============================================================================
+this.minUtility: 25709.131
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 25709.131
+	Sequential rules count: 74
+	Total time : 2178.563 s
+	Max memory (mb) : 4067.4465713500977
+	Number of utility table: 253607733
+=============================================================================
+this.minUtility: 38734.894
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 38734.894
+	Sequential rules count: 33
+	Total time : 3249.43 s
+	Max memory (mb) : 5748.6358642578125
+	Number of utility table: 253978582
+=============================================================================
+this.minUtility: 52467.683000000005
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 52467.683000000005
+	Sequential rules count: 40
+	Total time : 5679.571 s
+	Max memory (mb) : 7596.352142333984
+	Number of utility table: 402794346
+=============================================================================
+this.minUtility: 64779.231
+=============================================================================
+--- Normal HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 64779.231
+	Sequential rules count: 83
+	Total time : 7571.346 s
+	Max memory (mb) : 9446.369491577148
+	Number of utility table: 460883502
+=============================================================================
+this.minUtility: 1645.7250000000001
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 1645.7250000000001
+	Sequential rules count: 56502
+	Total time : 36.035 s
+	Max memory (mb) : 990.8501968383789
+	Number of utility table: 66787504
+=============================================================================
+this.minUtility: 3269.8740000000003
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 3269.8740000000003
+	Sequential rules count: 84
+	Total time : 63.053 s
+	Max memory (mb) : 1024.6999816894531
+	Number of utility table: 91202344
+=============================================================================
+this.minUtility: 6506.276
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 6506.276
+	Sequential rules count: 95
+	Total time : 130.046 s
+	Max memory (mb) : 2211.054931640625
+	Number of utility table: 146006540
+=============================================================================
+this.minUtility: 13225.41
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 13225.41
+	Sequential rules count: 22
+	Total time : 169.557 s
+	Max memory (mb) : 3588.5974349975586
+	Number of utility table: 132041711
+=============================================================================
+this.minUtility: 25709.131
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 25709.131
+	Sequential rules count: 74
+	Total time : 347.007 s
+	Max memory (mb) : 6170.383369445801
+	Number of utility table: 199354946
+=============================================================================
+this.minUtility: 38734.894
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 38734.894
+	Sequential rules count: 33
+	Total time : 481.086 s
+	Max memory (mb) : 6992.861145019531
+	Number of utility table: 192809823
+=============================================================================
+this.minUtility: 52467.683000000005
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 52467.683000000005
+	Sequential rules count: 40
+	Total time : 845.781 s
+	Max memory (mb) : 8190.474639892578
+	Number of utility table: 301564741
+=============================================================================
+this.minUtility: 64779.231
+=============================================================================
+--- ALLRU HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 64779.231
+	Sequential rules count: 83
+	Total time : 1150.995 s
+	Max memory (mb) : 10014.912712097168
+	Number of utility table: 346873068
+=============================================================================
+this.minUtility: 1645.7250000000001
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 1645.7250000000001
+	Sequential rules count: 56502
+	Total time : 44.308 s
+	Max memory (mb) : 1023.4055633544922
+	Number of utility table: 86826292
+=============================================================================
+this.minUtility: 3269.8740000000003
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 3269.8740000000003
+	Sequential rules count: 84
+	Total time : 84.432 s
+	Max memory (mb) : 1838.2170867919922
+	Number of utility table: 114050847
+=============================================================================
+this.minUtility: 6506.276
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 6506.276
+	Sequential rules count: 95
+	Total time : 169.929 s
+	Max memory (mb) : 2400.19775390625
+	Number of utility table: 191712510
+=============================================================================
+this.minUtility: 13225.41
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 13225.41
+	Sequential rules count: 22
+	Total time : 204.377 s
+	Max memory (mb) : 3318.0374298095703
+	Number of utility table: 164517267
+=============================================================================
+this.minUtility: 25709.131
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 25709.131
+	Sequential rules count: 74
+	Total time : 436.223 s
+	Max memory (mb) : 4659.295364379883
+	Number of utility table: 254375637
+=============================================================================
+this.minUtility: 38734.894
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 38734.894
+	Sequential rules count: 33
+	Total time : 574.194 s
+	Max memory (mb) : 6240.018241882324
+	Number of utility table: 254678107
+=============================================================================
+this.minUtility: 52467.683000000005
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 52467.683000000005
+	Sequential rules count: 40
+	Total time : 1050.276 s
+	Max memory (mb) : 8102.870475769043
+	Number of utility table: 404181042
+=============================================================================
+this.minUtility: 64779.231
+=============================================================================
+--- NoCalculate HUSRM algorithm for high utility sequential rule mining ---
+=============================================================================
+	minutil: 64779.231
+	Sequential rules count: 83
+	Total time : 1341.424 s
+	Max memory (mb) : 10209.435997009277
+	Number of utility table: 462244668
+=============================================================================
